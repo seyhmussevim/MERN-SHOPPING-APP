@@ -32,4 +32,4 @@ Client
 Please SignIn with "username: admin, password: 123456" for able to successfull order! Otherwise you will get "Something went wrong!" end of the proccess!
 For checkout use random address, for test cart you can use: "4242 4242 4242 4242, 08/24, 123"!
 
-Demo :https://glistening-twilight-6dfdf4.netlify.app
+Demo :https://carkyshopping.netlify.app/
